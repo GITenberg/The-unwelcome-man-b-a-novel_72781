@@ -1,0 +1,33 @@
+_repo: The-unwelcome-man-b-a-novel_72781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frank, Waldo David
+    birthdate: 1889
+    deathdate: 1967
+    gutenberg_agent_id: '35487'
+    url: http://www.gutenberg.org/2009/agents/35487
+    wikipedia: https://en.wikipedia.org/wiki/Waldo_Frank
+description: ''
+gutenberg_issued: '2024-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72781'
+  lccn: '17002340'
+language: en
+pgterms:marc905: 20230216051746frank
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aBoston :$bLittle, Brown, and Company, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: 'The unwelcome man : $b a novel'
+url: http://www.gutenberg.org/ebooks/72781
